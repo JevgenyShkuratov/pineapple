@@ -1,0 +1,29 @@
+
+.main_success {
+
+    width: 400px;
+    height: 400px;
+    margin-top: 129px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading_success h1 {
+    font-family: Georgia, sans-serif;
+    margin-top: 26px;
+    font-size: 32px;
+    line-height: 44px;
+    font-weight: normal;
+    color: #131821;
+}
+
+.sub_heading_success p {
+    font-family: Arial, sans-serif;
+    line-height: 28px;
+    font-size: 16px;
+    color: #6A707B;
+}
+
+hr {
+    margin-top: 48px;
+}
